@@ -2,7 +2,8 @@
 
 ## Overview
 
-Spaceship Game is a thrilling space shooter game built using Unity. Players navigate a spaceship, dodge obstacles, and shoot asteroids. The game features relaxing gameplay, stunning visuals with various maps, and engaging sound effects.
+Spaceship Game is a thrilling space shooter currently in its starter stage. While basic functionalities are implemented, such as navigating a spaceship, dodging obstacles, and shooting asteroids, it still offers a lot of fun. The gameplay is relaxing, and the visuals are stunning, with various maps to explore.
+Though it’s already enjoyable, there’s much more to come! Future updates will include exciting additions like enemies, more challenging elements, and additional features that will make the game even more thrilling and dynamic. Stay tuned for more updates! 
 
 ## Features
 
