@@ -5,6 +5,9 @@
 Spaceship Game is a thrilling space shooter currently in its starter stage. While basic functionalities are implemented, such as navigating a spaceship, dodging obstacles, and shooting asteroids, it still offers a lot of fun. The gameplay is relaxing, and the visuals are stunning, with various maps to explore.
 Though it’s already enjoyable, there’s much more to come! Future updates will include exciting additions like enemies, more challenging elements, and additional features that will make the game even more thrilling and dynamic. Stay tuned for more updates! 
 
+## Gameplay Video 🎮
+[![Watch the Video](https://img.youtube.com/vi/PxSTxHy_4DY/hqdefault.jpg)](https://www.youtube.com/watch?v=PxSTxHy_4DY)
+
 ## Features
 
 - **Smooth Controls**: Experience precise 3D spaceship navigation using keyboard and mouse for immersive gameplay.
